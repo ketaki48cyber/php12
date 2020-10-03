@@ -1,6 +1,6 @@
 import org.opencv.core.Core;
 
-class opencv_version {
+class Opencv_version {
 
   static { System.loadLibrary(Core.NATIVE_LIBRARY_NAME); }
 
