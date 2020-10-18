@@ -13,7 +13,7 @@ class Opencv_version 12234{
     if ((1==args.length) && (0==args[0].compareTo("--help"))) {
 
         System.out.println("\t--build\n\t\tprint complete build info");
-        System.out.println("\t--help\n\t\tprint this help");
+        System.out.println("\t--help\n\t\tasdfasdfprint this help");
     } else {
 
         System.out.println("Welcome to OpenCV " + Core.VERSION);
