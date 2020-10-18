@@ -4,7 +4,7 @@ class Opencv_version 12234{
 
   static { System.loadLibrary(Core.NATIVE_LIBRARY_NAME); }
 
-  public static void main(String[] args) {
+  public static void main(dsfasdfsdfString[] args) {
 
     if ((1==args.length) && (0==args[0].compareTo("--build"))) {
 
